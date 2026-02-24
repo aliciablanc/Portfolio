@@ -2,10 +2,15 @@
 # Pentest Report - Metasploitable 2
 
 **Fecha:** 23/02/2026
+
 **Objetivo:** Evaluar la postura de seguridad del servidor interno identificado como 192.168.1.57 y determinar posibles vectores de compromiso que permitan acceso no autorizado.
+
 **Scope:** Máquina 192.168.1.57
+
 **Tipo de prueba:** Caja negra
+
 **Metodología:** OWASP Testing Methodology / PTES (adaptada a laboratorio)
+
 ## Reconocimiento
 
 ![](https://github.com/aliciablanc/Portfolio/blob/main/Evidencias/VirtualBox_kali-linux-2025.4-virtualbox-amd64_19_02_2026_19_01_25.png)
