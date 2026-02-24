@@ -8,7 +8,7 @@
 **Metodología:** OWASP Testing Methodology / PTES (adaptada a laboratorio)
 ## Reconocimiento
 
-![[VirtualBox_kali-linux-2025.4-virtualbox-amd64_19_02_2026_19_01_25.png]]
+![](https://github.com/aliciablanc/Portfolio/blob/main/Evidencias/VirtualBox_kali-linux-2025.4-virtualbox-amd64_19_02_2026_19_01_25.png)
 
 Se realizó un escaneo activo contra el host objetivo (192.168.1.57) utilizando la herramienta de reconocimiento de red Nmap, con el propósito de identificar servicios expuestos y versiones asociadas.
 
