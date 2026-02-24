@@ -46,7 +46,7 @@ Durante la fase de enumeración se identificó que el servicio FTP expuesto ejec
 
 Tras validar la vulnerabilidad, se logró establecer acceso remoto al sistema objetivo sin autenticación válida, obteniendo una shell con privilegios elevados.
 
-![[VirtualBox_kali-linux-2025.4-virtualbox-amd64_23_02_2026_20_55_00.png]]
+![](https://github.com/aliciablanc/Portfolio/blob/main/Evidencias/VirtualBox_kali-linux-2025.4-virtualbox-amd64_23_02_2026_20_55_00.png)
 
 **Evidencia**
 
@@ -68,7 +68,7 @@ Acceder, modificar o eliminar información sensible.
 
 Utilizar el sistema como punto de pivote hacia otros activos internos.
 
-![[VirtualBox_kali-linux-2025.4-virtualbox-amd64_23_02_2026_21_04_21.png]]
+![](https://github.com/aliciablanc/Portfolio/blob/main/Evidencias/VirtualBox_kali-linux-2025.4-virtualbox-amd64_23_02_2026_21_04_21.png)
 
 **Severidad**
 
