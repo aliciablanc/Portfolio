@@ -40,7 +40,7 @@ Full penetration testing engagement following PTES methodology.
 - Root privilege compromise
 - Professional reporting
 
-👉 [View Full Report](./Reporte.md)
+👉 [View Full Report](./Informe/Reporte.md)
 
 (Currently working on the English translation)
 
