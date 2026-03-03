@@ -42,7 +42,6 @@ Full penetration testing engagement following PTES methodology.
 
 👉 [View Full Report](./Informe/Reporte.md)
 
-(Currently working on the English translation)
 
 ---
 
