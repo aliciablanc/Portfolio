@@ -1,7 +1,7 @@
 
 # Pentest Report - Metasploitable 2
 
-*English:*
+# English:
 
 # Penetration Testing Report
 
@@ -132,7 +132,7 @@ The achieved compromise demonstrates that an external attacker with network acce
 - Seemingly low-priority services (such as FTP) can lead to full system compromise.
 - Exposure of outdated software represents one of the most critical risks in corporate environments.
 
-*Español*
+# Español
 
 **Fecha:** 23/02/2026
 
